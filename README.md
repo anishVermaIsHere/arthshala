@@ -2,8 +2,12 @@
 
 1. Without Library (http://localhost:3000/)
 
+![002](https://github.com/anishVermaIsHere/arthshala/assets/97972189/c79b722b-2a83-473b-af4f-b711ab9bf2d9)
+![001](https://github.com/anishVermaIsHere/arthshala/assets/97972189/ef627e03-44f5-4a6a-9dc9-f604ba31cb90)
 
 2. With FullCalendar Library (http://localhost:3000/cald)
+
+![003](https://github.com/anishVermaIsHere/arthshala/assets/97972189/c08bff43-c073-429f-965f-5803e7b34381)
 
 
 **To run application follow these steps**
