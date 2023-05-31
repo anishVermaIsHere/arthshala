@@ -9,6 +9,9 @@
 
 ![003](https://github.com/anishVermaIsHere/arthshala/assets/97972189/c08bff43-c073-429f-965f-5803e7b34381)
 
+3. Figma Screens
+
+
 
 **To run application follow these steps**
 
